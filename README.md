@@ -1,4 +1,4 @@
-![alt text](https://github.com/ggeop/Jarvis/blob/master/imgs/jarvis_logo.png)
+![alt text](https://github.com/AdityaCyberSafe/Jarvis/blob/master/imgs/jarvis_logo.png)
 
 # About Jarvis - An Intelligent AI Consciousness 🧠
 Jarvis is a voice commanding assistant service in [Python 3.5+](https://www.python.org/downloads/release/python-360/)
